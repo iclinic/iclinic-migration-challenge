@@ -9,14 +9,13 @@ Seu desafio será analisar e desenvolver scripts de conversão de dados médicos
 
 ### Solução
 
-Analisar, relacionar, transformar e desenvolver script em Python&reg; de conversão de dados médicos fictícios de várias fontes distintas para o padrão iClinic.
+Analisar, relacionar, transformar e desenvolver script em Python&reg; de conversão de dados médicos fictícios de duas fontes distintas para o padrão iClinic.
 
-Os arquivos de dados médicos disponibilizados são:
-- [Dados 1](desafio-base1.zip), da Dra. Maria (dados de todos os médicos);
-- [Dados 2](desafio-base2.zip), do Dr. José;
-- [Dados 3](desafio-base3.zip), da Dra. Ana, Dr. Carlos e Dr. Gustavo.
+Os arquivos de dados médicos fictícios disponibilizados são:
+- [Dados 1](desafio-base1.zip), do Dr. José;
+- [Dados 2](desafio-base2.zip), da Dra. Ana, Dr. Carlos e Dr. Gustavo.
 
-É importante destacar que apesar de serem dados fictícios, estes devem ser considerados dados sensíveis e é necessário manter seu conteúdo o mais próximo possível do original.
+É importante destacar que apesar de serem dados fictícios, estes devem ser considerados dados sensíveis e é necessário manter seu conteúdo o mais próximo possível do original. Os dados que não fizerem parte do cadastro, do prontuário e do agendamento podem ser desconsiderados na conversão.
 
 Todo o processo de análise e de relacionamento dos dados deve ser documentado em um relatório, no qual deve descrever as etapas e ferramentas utilizadas de forma detalhada, bem como, toda informação que julgar relevante. Este relatório deve estar em formato texto, markdown ou pdf, nomeado como relatorio.txt, relatorio&#46;md ou relatorio.pdf, respectivamente.
 
